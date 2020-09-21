@@ -27,7 +27,6 @@ workflows:
           branches:
             ignore: /.*/
 
-
 jobs:
   build_and_test:
     machine:
